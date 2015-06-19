@@ -54,7 +54,7 @@
 				foreach($urls as $url){
 					$curl = curl_init(); 
 					$post_data = array('format' => 'json',
-					'apikey' => '0706I08AA7565HFEAB8A',
+					'apikey' => 'Get your own API key!',
 					'provider' => 'tinyurl_com',
 					'url' => $url );
 					$api_url = 'http://tiny-url.info/api/v1/create';
