@@ -12,7 +12,7 @@
 	<!-- Schema.org markup for Google+ -->
 	<meta itemprop="name" content="Bulk URL Shortener">
 	<meta itemprop="description" content="A 45 minute project to create a service for shortening URLs in bulk.">
-	<meta itemprop="image" content="http://manraj.collegespace.in/Experiments/bulkshortener/img.png">
+	<meta itemprop="image" content="http://manraj.collegespace.in/Experiments/bulkshortener/assets/images/img.png">
 
 	<!-- Twitter Card data -->
 	<meta name="twitter:card" content="summary_large_image">
@@ -21,13 +21,13 @@
 	<meta name="twitter:description" content="A 45 minute project to create a service for shortening URLs in bulk.">
 	<meta name="twitter:creator" content="@devilmanraj">
 	<!-- Twitter summary card with large image must be at least 280x150px -->
-	<meta name="twitter:image:src" content="http://manraj.collegespace.in/Experiments/bulkshortener/img.png">
+	<meta name="twitter:image:src" content="http://manraj.collegespace.in/Experiments/bulkshortener/assets/images/img.png">
 
 	<!-- Open Graph data -->
 	<meta property="og:title" content="Bulk URL Shortener" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://manraj.collegespace.in/Experiments/bulkshortener/" />
-	<meta property="og:image" content="http://manraj.collegespace.in/Experiments/bulkshortener/img.png" />
+	<meta property="og:image" content="http://manraj.collegespace.in/Experiments/bulkshortener/assets/images/img.png" />
 	<meta property="og:description" content="A 45 minute project to create a service for shortening URLs in bulk." />
 	<meta property="og:site_name" content="Bulk URL Shortener" />
 	<script src="https://code.jquery.com/jquery-2.1.1.js"></script>
